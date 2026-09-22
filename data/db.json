@@ -1,0 +1,1974 @@
+{
+  "products": [
+    {
+      "id": "prod-w1",
+      "title": "Heritage Classic Bifold Leather Wallet",
+      "slug": "heritage-classic-bifold-leather-wallet",
+      "sku": "HEY-WLT-001",
+      "category": "Leather Wallets",
+      "categorySlug": "leather-wallets",
+      "price": 3600,
+      "discountPrice": 3200,
+      "inStock": true,
+      "stockQuantity": 45,
+      "stock": 45,
+      "thumbnail": "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Precision handcrafted from top-grain oil-pullup leather. Features dual currency bill compartments, 8 card slots, and hand-burnished edges.",
+      "shortDescription": "Classic 8-card bifold wallet in full-grain pull-up leather.",
+      "material": "Full-Grain Cowhide Leather",
+      "leatherType": "Oil Pull-Up Calfskin",
+      "hardware": "Reinforced Nylon Bonded Thread",
+      "dimensions": "11.5 cm x 9.5 cm x 1.5 cm",
+      "weight": "90g",
+      "colors": [
+        {
+          "name": "Espresso Brown",
+          "hex": "#2A1810",
+          "inStock": true
+        },
+        {
+          "name": "Warm Tan",
+          "hex": "#8B4513",
+          "inStock": true
+        },
+        {
+          "name": "Onyx Black",
+          "hex": "#1C1D1F",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "8 dedicated card slots",
+        "Dual currency compartments",
+        "Hand-waxed burnished edge",
+        "RFID protective lining"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Stitching": "Heavy-duty lockstitch",
+        "Warranty": "1-Year Craftsmanship Warranty"
+      },
+      "careInstructions": "Wipe with soft cotton cloth. Apply leather cream every 6 months.",
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 4.9,
+      "reviewCount": 38,
+      "tags": [
+        "wallet",
+        "bifold",
+        "leather",
+        "everyday"
+      ],
+      "moq": 50,
+      "wholesalePrice": 1950,
+      "createdAt": "2026-01-15"
+    },
+    {
+      "id": "prod-w2",
+      "title": "Executive Trifold Leather Wallet",
+      "slug": "executive-trifold-leather-wallet",
+      "sku": "HEY-WLT-002",
+      "category": "Leather Wallets",
+      "categorySlug": "leather-wallets",
+      "price": 4200,
+      "inStock": true,
+      "stockQuantity": 30,
+      "stock": 30,
+      "thumbnail": "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1559563458-527698bf5295?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "A spacious trifold silhouette featuring 12 credit card pockets, clear ID window, and hidden security slots.",
+      "shortDescription": "Spacious 12-slot trifold wallet with transparent ID window.",
+      "material": "Natural Vegetable-Tanned Leather",
+      "leatherType": "Full-Grain Veg-Tan",
+      "hardware": "Brass eyelet accent",
+      "dimensions": "12 cm x 10 cm x 2 cm",
+      "weight": "110g",
+      "colors": [
+        {
+          "name": "Dark Chocolate",
+          "hex": "#1F140E",
+          "inStock": true
+        },
+        {
+          "name": "Saddle Tan",
+          "hex": "#A0522D",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "12 card slots",
+        "Clear ID window",
+        "Hidden receipt pockets",
+        "Turned-edge luxury finish"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Capacity": "Up to 15 cards"
+      },
+      "careInstructions": "Keep dry and away from prolonged direct heat.",
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "isMonogrammable": true,
+      "rating": 4.8,
+      "reviewCount": 19,
+      "tags": [
+        "trifold",
+        "leather wallet",
+        "id window"
+      ],
+      "moq": 50,
+      "wholesalePrice": 2300,
+      "createdAt": "2026-02-10"
+    },
+    {
+      "id": "prod-w3",
+      "title": "Minimalist Front-Pocket Slim Wallet",
+      "slug": "minimalist-front-pocket-slim-wallet",
+      "sku": "HEY-WLT-003",
+      "category": "Leather Wallets",
+      "categorySlug": "leather-wallets",
+      "price": 2500,
+      "discountPrice": 2200,
+      "inStock": true,
+      "stockQuantity": 60,
+      "stock": 60,
+      "thumbnail": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Designed for front-pocket carry with ultra-thin profile, center cash stash pocket, and 6 quick-draw card sleeves.",
+      "shortDescription": "Ultra-thin front pocket wallet with center cash pocket.",
+      "material": "Semi-Aniline Calf Leather",
+      "leatherType": "Full-Grain Calfskin",
+      "hardware": "None",
+      "dimensions": "10 cm x 7.5 cm x 0.5 cm",
+      "weight": "45g",
+      "colors": [
+        {
+          "name": "Tan Brown",
+          "hex": "#8C522F",
+          "inStock": true
+        },
+        {
+          "name": "Charcoal Black",
+          "hex": "#222222",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Ultra-slim profile",
+        "6 card slots",
+        "Center cash fold",
+        "Anti-magnetic shielding"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Thickness": "Only 5mm empty"
+      },
+      "careInstructions": "Buff gently with clean micro-fiber cloth.",
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 5,
+      "reviewCount": 42,
+      "tags": [
+        "slim wallet",
+        "front pocket",
+        "minimalist"
+      ],
+      "moq": 100,
+      "wholesalePrice": 1200,
+      "createdAt": "2026-01-20"
+    },
+    {
+      "id": "prod-w4",
+      "title": "Continental Long Zip-Around Leather Wallet",
+      "slug": "continental-long-zip-around-leather-wallet",
+      "sku": "HEY-WLT-004",
+      "category": "Leather Wallets",
+      "categorySlug": "leather-wallets",
+      "price": 5800,
+      "inStock": true,
+      "stockQuantity": 25,
+      "stock": 25,
+      "thumbnail": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Full-length zip-around travel wallet accommodating unbent currency notes, smartphone, checkbook, and 12 cards.",
+      "shortDescription": "Long travel zip wallet for cash, cards, and smartphone.",
+      "material": "Milled Pebble-Grain Leather",
+      "leatherType": "Pebble Grain Cowhide",
+      "hardware": "Smooth YKK Antique Brass Zipper",
+      "dimensions": "20 cm x 10.5 cm x 2.5 cm",
+      "weight": "180g",
+      "colors": [
+        {
+          "name": "Burgundy Oxblood",
+          "hex": "#4A0E17",
+          "inStock": true
+        },
+        {
+          "name": "Espresso",
+          "hex": "#231812",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "12 card slots",
+        "Central zippered coin pocket",
+        "Fits all major smartphones",
+        "Full perimeter brass zipper"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Zipper": "YKK #5 Antiqued Brass"
+      },
+      "careInstructions": "Lubricate zipper teeth with beeswax occasionally.",
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "isMonogrammable": true,
+      "rating": 4.7,
+      "reviewCount": 14,
+      "tags": [
+        "long wallet",
+        "continental",
+        "zip wallet"
+      ],
+      "moq": 40,
+      "wholesalePrice": 3200,
+      "createdAt": "2026-02-18"
+    },
+    {
+      "id": "prod-b1",
+      "title": "Artisan Formal Stitched Leather Belt (35mm)",
+      "slug": "artisan-formal-stitched-leather-belt-35mm",
+      "sku": "HEY-BLT-001",
+      "category": "Leather Belts",
+      "categorySlug": "leather-belts",
+      "price": 3400,
+      "discountPrice": 2990,
+      "inStock": true,
+      "stockQuantity": 40,
+      "stock": 40,
+      "thumbnail": "https://images.unsplash.com/photo-1624222247344-550fb60583dc?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1624222247344-550fb60583dc?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Cut from continuous full-grain bridle bend leather with feather-edge tapering, tone-on-tone edge stitching, and solid zinc-alloy buckle.",
+      "shortDescription": "Formal 35mm dress belt in full-grain bridle leather.",
+      "material": "Full-Grain Bridle Leather",
+      "leatherType": "Bridle Cowhide Bend",
+      "hardware": "Solid Brushed Nickel Buckle",
+      "dimensions": "Width: 35mm | Lengths: 30\" to 46\"",
+      "weight": "160g",
+      "colors": [
+        {
+          "name": "Classic Black",
+          "hex": "#111111",
+          "inStock": true
+        },
+        {
+          "name": "Deep Mahogany",
+          "hex": "#3B1F13",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Full-grain single ply construction",
+        "Beveled and burnished edges",
+        "5 oval prong holes",
+        "Customizable waist sizes"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Thickness": "3.8mm to 4.2mm"
+      },
+      "careInstructions": "Hang straight when not in use. Wipe clean with damp cloth.",
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 4.9,
+      "reviewCount": 29,
+      "tags": [
+        "belt",
+        "formal belt",
+        "leather belt"
+      ],
+      "moq": 50,
+      "wholesalePrice": 1750,
+      "createdAt": "2026-01-10"
+    },
+    {
+      "id": "prod-b2",
+      "title": "Reversible Dual-Tone Leather Belt (Black / Brown)",
+      "slug": "reversible-dual-tone-leather-belt-black-brown",
+      "sku": "HEY-BLT-002",
+      "category": "Leather Belts",
+      "categorySlug": "leather-belts",
+      "price": 3800,
+      "inStock": true,
+      "stockQuantity": 35,
+      "stock": 35,
+      "thumbnail": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Two versatile looks in one belt with an Italian twist-reversing buckle mechanism. Premium smooth black on one side and warm cognac brown on the other.",
+      "shortDescription": "2-in-1 reversible belt with twist-lock mechanism.",
+      "material": "Dual-Layer Bonded Full-Grain Leather",
+      "leatherType": "Smooth Calfskin",
+      "hardware": "Rotary Reversible Gunmetal Buckle",
+      "dimensions": "Width: 34mm | Lengths: 32\" to 44\"",
+      "weight": "175g",
+      "colors": [
+        {
+          "name": "Black / Cognac",
+          "hex": "#1C1D1F",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Patented 360-degree twist buckle",
+        "Two belts in one",
+        "Feathered edges",
+        "Supple feel"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Mechanism": "Twist-pivot lock"
+      },
+      "careInstructions": "Avoid over-flexing at buckle rotation point.",
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "isMonogrammable": false,
+      "rating": 4.8,
+      "reviewCount": 22,
+      "tags": [
+        "reversible belt",
+        "dual tone",
+        "versatile"
+      ],
+      "moq": 50,
+      "wholesalePrice": 2100,
+      "createdAt": "2026-02-05"
+    },
+    {
+      "id": "prod-b3",
+      "title": "Heavy-Duty Casual Jeans Leather Belt (40mm)",
+      "slug": "heavy-duty-casual-jeans-leather-belt-40mm",
+      "sku": "HEY-BLT-003",
+      "category": "Leather Belts",
+      "categorySlug": "leather-belts",
+      "price": 3600,
+      "inStock": true,
+      "stockQuantity": 50,
+      "stock": 50,
+      "thumbnail": "https://images.unsplash.com/photo-1624222247344-550fb60583dc?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1624222247344-550fb60583dc?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Thick single-strip vegetable tanned buffalo leather belt with antiqued brass roller buckle. Rugged character that patinas richly over time.",
+      "shortDescription": "40mm wide casual belt for denim and chinos.",
+      "material": "Full-Grain Water Buffalo Hide",
+      "leatherType": "Veg-Tanned Saddle Buffalo",
+      "hardware": "Solid Antique Brass Roller Buckle",
+      "dimensions": "Width: 40mm | Thickness: 4.5mm",
+      "weight": "210g",
+      "colors": [
+        {
+          "name": "Rustic Distressed Tan",
+          "hex": "#8B4513",
+          "inStock": true
+        },
+        {
+          "name": "Dark Walnut",
+          "hex": "#2B1B14",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Roller buckle for smooth cinching",
+        "Heavy-duty 4.5mm thickness",
+        "Hand-stamped Heymand crest",
+        "Solid brass screw rivets"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Tensile Strength": "Heavy-duty commercial grade"
+      },
+      "careInstructions": "Condition annually with mink oil or neatsfoot oil.",
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": false,
+      "isMonogrammable": true,
+      "rating": 4.9,
+      "reviewCount": 18,
+      "tags": [
+        "jeans belt",
+        "casual belt",
+        "buffalo leather"
+      ],
+      "moq": 50,
+      "wholesalePrice": 1950,
+      "createdAt": "2026-01-25"
+    },
+    {
+      "id": "prod-bg1",
+      "title": "Executive Ambassador Leather Briefcase",
+      "slug": "executive-ambassador-leather-briefcase",
+      "sku": "HEY-BAG-001",
+      "category": "Leather Bags",
+      "categorySlug": "leather-bags",
+      "price": 18500,
+      "discountPrice": 16500,
+      "inStock": true,
+      "stockQuantity": 15,
+      "stock": 15,
+      "thumbnail": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Hand-tailored executive briefcase featuring triple gusset compartments, keyed push-lock flap, dedicated laptop sleeve, and trolley luggage strap.",
+      "shortDescription": "Triple-compartment executive leather briefcase with brass lock.",
+      "material": "Selected Full-Grain Cowhide",
+      "leatherType": "Aniline Finished Cowhide",
+      "hardware": "Custom Cast Solid Brass Lock & D-Rings",
+      "dimensions": "42 cm x 31 cm x 14 cm",
+      "weight": "1.6 kg",
+      "colors": [
+        {
+          "name": "Dark Cognac",
+          "hex": "#582B14",
+          "inStock": true
+        },
+        {
+          "name": "Raven Black",
+          "hex": "#141416",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Padded 15.6\" laptop compartment",
+        "Luggage trolley slip-through sleeve",
+        "Keyed push-lock closure",
+        "Detachable padded leather shoulder strap"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Capacity": "18 Liters",
+        "Lining": "Herringbone Cotton Twill"
+      },
+      "careInstructions": "Store in breathable dust bag provided.",
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 5,
+      "reviewCount": 31,
+      "tags": [
+        "briefcase",
+        "executive",
+        "laptop bag",
+        "work"
+      ],
+      "moq": 20,
+      "wholesalePrice": 10500,
+      "createdAt": "2026-01-05"
+    },
+    {
+      "id": "prod-bg2",
+      "title": "Heritage Leather Duffle Holdall (45L)",
+      "slug": "heritage-leather-duffle-holdall-45l",
+      "sku": "HEY-BAG-002",
+      "category": "Leather Bags",
+      "categorySlug": "leather-bags",
+      "price": 24500,
+      "discountPrice": 21900,
+      "inStock": true,
+      "stockQuantity": 12,
+      "stock": 12,
+      "thumbnail": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "An airline carry-on approved weekend duffel bag crafted from heavy-gauge oil pull-up leather. Features bottom brass protective feet and side shoe tunnel.",
+      "shortDescription": "45-liter carry-on weekend travel duffel with shoe compartment.",
+      "material": "Heavy-Gauge Oil Pull-Up Cowhide",
+      "leatherType": "Pull-Up Leather",
+      "hardware": "Oversized Solid Brass Two-Way YKK Zipper",
+      "dimensions": "52 cm x 28 cm x 28 cm",
+      "weight": "2.1 kg",
+      "colors": [
+        {
+          "name": "Tobacco Brown",
+          "hex": "#53311E",
+          "inStock": true
+        },
+        {
+          "name": "Midnight Charcoal",
+          "hex": "#1E1E20",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Airline cabin compliant size",
+        "Separate ventilated shoe compartment",
+        "Solid brass bottom protective studs",
+        "Reinforced top grab handles"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Volume": "45 Liters",
+        "Max Load": "25 kg"
+      },
+      "careInstructions": "Wipe exterior with leather lotion.",
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 4.9,
+      "reviewCount": 46,
+      "tags": [
+        "duffle",
+        "travel bag",
+        "weekender",
+        "holdall"
+      ],
+      "moq": 15,
+      "wholesalePrice": 14200,
+      "createdAt": "2026-01-18"
+    },
+    {
+      "id": "prod-hb1",
+      "title": "The Multan Grace Structured Leather Tote",
+      "slug": "the-multan-grace-structured-leather-tote",
+      "sku": "HEY-HBG-001",
+      "category": "Handbags",
+      "categorySlug": "handbags",
+      "price": 13500,
+      "discountPrice": 11900,
+      "inStock": true,
+      "stockQuantity": 20,
+      "stock": 20,
+      "thumbnail": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Graceful everyday shoulder tote crafted from Italian-tanned milled calfskin. Reinforced base keeps the silhouette standing proudly.",
+      "shortDescription": "Elegant structured leather tote with magnetic center bridge.",
+      "material": "Milled Full-Grain Calfskin",
+      "leatherType": "Calfskin",
+      "hardware": "Pale Champagne Gold Accents",
+      "dimensions": "36 cm x 28 cm x 13 cm",
+      "weight": "820g",
+      "colors": [
+        {
+          "name": "Warm Caramel",
+          "hex": "#B87333",
+          "inStock": true
+        },
+        {
+          "name": "Ivory Cream",
+          "hex": "#FDFBF7",
+          "inStock": true
+        },
+        {
+          "name": "Obsidian Black",
+          "hex": "#121212",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Internal zip divider pocket",
+        "Key leash hook",
+        "Comfortable rolled shoulder handles",
+        "Reinforced base with studs"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Drop": "24 cm shoulder strap drop"
+      },
+      "careInstructions": "Protect from cosmetic oil stains.",
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "isMonogrammable": true,
+      "rating": 4.9,
+      "reviewCount": 26,
+      "tags": [
+        "handbag",
+        "tote",
+        "womens bag",
+        "luxury"
+      ],
+      "moq": 25,
+      "wholesalePrice": 7800,
+      "createdAt": "2026-02-01"
+    },
+    {
+      "id": "prod-hb2",
+      "title": "Classic Saddle Flap Crossbody Handbag",
+      "slug": "classic-saddle-flap-crossbody-handbag",
+      "sku": "HEY-HBG-002",
+      "category": "Handbags",
+      "categorySlug": "handbags",
+      "price": 9800,
+      "inStock": true,
+      "stockQuantity": 24,
+      "stock": 24,
+      "thumbnail": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Timeless equestrian saddle bag silhouette with curved contouring, magnetic buckle flap, and adjustable strap.",
+      "shortDescription": "Equestrian saddle silhouette crossbody in smooth veg-tan.",
+      "material": "Vegetable-Tanned Cowhide",
+      "leatherType": "Smooth Veg-Tan",
+      "hardware": "Antiqued Brass Clasp",
+      "dimensions": "24 cm x 19 cm x 8 cm",
+      "weight": "580g",
+      "colors": [
+        {
+          "name": "Saddle Tan",
+          "hex": "#8B4513",
+          "inStock": true
+        },
+        {
+          "name": "Olive Green",
+          "hex": "#4B5320",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Adjustable crossbody strap",
+        "Back quick-access phone pocket",
+        "Soft suede interior lining",
+        "Magnetic snap under buckle"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Strap Length": "110 cm - 130 cm"
+      },
+      "careInstructions": "Buff scratches with clean fingers or neutral balm.",
+      "isFeatured": false,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 4.8,
+      "reviewCount": 19,
+      "tags": [
+        "saddle bag",
+        "crossbody",
+        "handbag"
+      ],
+      "moq": 30,
+      "wholesalePrice": 5600,
+      "createdAt": "2026-01-28"
+    },
+    {
+      "id": "prod-lb1",
+      "title": "The Metropolitan Padded 15.6\" Laptop Bag",
+      "slug": "the-metropolitan-padded-15-6-laptop-bag",
+      "sku": "HEY-LPB-001",
+      "category": "Laptop Bags",
+      "categorySlug": "laptop-bags",
+      "price": 12800,
+      "discountPrice": 11500,
+      "inStock": true,
+      "stockQuantity": 28,
+      "stock": 28,
+      "thumbnail": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Slimline professional laptop briefcase fitted with high-density EVA shock absorbing foam walls and organizational organizer.",
+      "shortDescription": "Slim 15.6\" laptop briefcase with shock-absorbing foam.",
+      "material": "Nappa Full-Grain Leather",
+      "leatherType": "Soft Nappa Cowhide",
+      "hardware": "Matte Gunmetal Hardware",
+      "dimensions": "40 cm x 29 cm x 7 cm",
+      "weight": "980g",
+      "colors": [
+        {
+          "name": "Charcoal Black",
+          "hex": "#1A1A1A",
+          "inStock": true
+        },
+        {
+          "name": "Dark Chestnut",
+          "hex": "#3E2723",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "High-density 10mm shock padding",
+        "Dedicated charger & mouse pouch",
+        "Luggage handle trolley strap",
+        "Water-resistant interior lining"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Compatibility": "Laptops up to 15.6 inches"
+      },
+      "careInstructions": "Keep away from sharp objects.",
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 4.9,
+      "reviewCount": 35,
+      "tags": [
+        "laptop bag",
+        "work bag",
+        "tech accessory"
+      ],
+      "moq": 25,
+      "wholesalePrice": 7200,
+      "createdAt": "2026-02-12"
+    },
+    {
+      "id": "prod-lb2",
+      "title": "14\" Ultra-Slim Leather Laptop Folio Sleeve",
+      "slug": "14-ultra-slim-leather-laptop-folio-sleeve",
+      "sku": "HEY-LPB-002",
+      "category": "Laptop Bags",
+      "categorySlug": "laptop-bags",
+      "price": 6800,
+      "inStock": true,
+      "stockQuantity": 40,
+      "stock": 40,
+      "thumbnail": "https://images.unsplash.com/photo-1544816155-12df9643f363?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1544816155-12df9643f363?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Enveloping sleeve tailored for 13\" and 14\" ultrabooks. Soft micro-suede interior prevents scratching while magnetic snap keeps it closed.",
+      "shortDescription": "Minimalist envelope sleeve for 13\"-14\" laptops.",
+      "material": "Crazy Horse Distressed Leather",
+      "leatherType": "Crazy Horse Waxed Cowhide",
+      "hardware": "Concealed Magnetic Closures",
+      "dimensions": "35 cm x 25 cm x 1.5 cm",
+      "weight": "390g",
+      "colors": [
+        {
+          "name": "Vintage Brown",
+          "hex": "#5D4037",
+          "inStock": true
+        },
+        {
+          "name": "Desert Camel",
+          "hex": "#C19A6B",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Invisible magnetic flap",
+        "Scratch-free microsuede lining",
+        "Back document slip slot",
+        "Develops unique vintage patina"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Fits": "MacBook Pro 14\", Air 13\", Dell XPS 13/14"
+      },
+      "careInstructions": "Natural scuffs can be rubbed out with thumb friction.",
+      "isFeatured": false,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 4.8,
+      "reviewCount": 28,
+      "tags": [
+        "laptop sleeve",
+        "folio",
+        "minimalist"
+      ],
+      "moq": 50,
+      "wholesalePrice": 3800,
+      "createdAt": "2026-01-14"
+    },
+    {
+      "id": "prod-mb1",
+      "title": "The Multan Artisan Leather Messenger Satchel",
+      "slug": "the-multan-artisan-leather-messenger-satchel",
+      "sku": "HEY-MSG-001",
+      "category": "Messenger Bags",
+      "categorySlug": "messenger-bags",
+      "price": 11500,
+      "discountPrice": 9900,
+      "inStock": true,
+      "stockQuantity": 22,
+      "stock": 22,
+      "thumbnail": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Rugged yet refined leather postman bag with dual front buckle quick-release push snaps, wide cotton-canvas webbing shoulder strap, and pen organizer.",
+      "shortDescription": "Classic field satchel with push-snap buckle straps.",
+      "material": "Vegetable-Tanned Saddle Leather",
+      "leatherType": "Veg-Tan Buffalo / Cowhide",
+      "hardware": "Antiqued Brass Quick-Release Buckles",
+      "dimensions": "38 cm x 28 cm x 10 cm",
+      "weight": "1.2 kg",
+      "colors": [
+        {
+          "name": "Rustic Saddle Tan",
+          "hex": "#7A3E1D",
+          "inStock": true
+        },
+        {
+          "name": "Deep Espresso",
+          "hex": "#2B1B14",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Quick-release push buckles under straps",
+        "Padded internal tablet compartment",
+        "Dual exterior front pockets",
+        "Adjustable 50mm heavy shoulder strap"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Strap Drop": "Up to 70 cm"
+      },
+      "careInstructions": "Condition with saddle soap or leather oil.",
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 4.9,
+      "reviewCount": 40,
+      "tags": [
+        "messenger bag",
+        "satchel",
+        "field bag"
+      ],
+      "moq": 20,
+      "wholesalePrice": 6500,
+      "createdAt": "2026-01-12"
+    },
+    {
+      "id": "prod-tb1",
+      "title": "Overnight Leather Weekender Duffel (38L)",
+      "slug": "overnight-leather-weekender-duffel-38l",
+      "sku": "HEY-TRV-001",
+      "category": "Travel Bags",
+      "categorySlug": "travel-bags",
+      "price": 19500,
+      "discountPrice": 17500,
+      "inStock": true,
+      "stockQuantity": 16,
+      "stock": 16,
+      "thumbnail": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Engineered for 2-3 day business trips. Features full U-shaped opening for easy packing, passport slot, and heavy leather grab handles.",
+      "shortDescription": "38-liter overnight leather travel bag with U-shape zipper.",
+      "material": "Waxed Pull-Up Cowhide Leather",
+      "leatherType": "Waxed Pull-Up",
+      "hardware": "Double-slider YKK Heavy Brass Zippers",
+      "dimensions": "48 cm x 26 cm x 26 cm",
+      "weight": "1.8 kg",
+      "colors": [
+        {
+          "name": "Dark Cognac",
+          "hex": "#582B14",
+          "inStock": true
+        },
+        {
+          "name": "Raven Black",
+          "hex": "#141416",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Wide U-zip packing mouth",
+        "Reinforced tubular leather handles",
+        "Bottom protective metal studs",
+        "Luggage name tag included"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Capacity": "38 Liters"
+      },
+      "careInstructions": "Store stuffed with tissue paper to preserve shape.",
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 5,
+      "reviewCount": 32,
+      "tags": [
+        "travel bag",
+        "weekender",
+        "duffel"
+      ],
+      "moq": 15,
+      "wholesalePrice": 11200,
+      "createdAt": "2026-02-08"
+    },
+    {
+      "id": "prod-tb2",
+      "title": "Handcrafted Leather Dopp Kit Toiletry Washbag",
+      "slug": "handcrafted-leather-dopp-kit-toiletry-washbag",
+      "sku": "HEY-TRV-002",
+      "category": "Travel Bags",
+      "categorySlug": "travel-bags",
+      "price": 4500,
+      "inStock": true,
+      "stockQuantity": 45,
+      "stock": 45,
+      "thumbnail": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Spill-resistant nylon lined dopp kit crafted from water-repellent oiled leather. Dual zipper flap reveals wide open toiletry access.",
+      "shortDescription": "Water-resistant lined leather shaving and toiletry kit.",
+      "material": "Oiled Waterproof Cowhide Leather",
+      "leatherType": "Oiled Hide",
+      "hardware": "Heavy Antiqued Brass Zipper",
+      "dimensions": "25 cm x 14 cm x 12 cm",
+      "weight": "310g",
+      "colors": [
+        {
+          "name": "Saddle Brown",
+          "hex": "#8B4513",
+          "inStock": true
+        },
+        {
+          "name": "Olive Hunter",
+          "hex": "#3B443B",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Waterproof nylon wipe-clean lining",
+        "Side carry handle",
+        "Internal mesh toothbrush slot",
+        "Wide opening wireframe structure"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Lining": "PU-coated spillproof nylon"
+      },
+      "careInstructions": "Wipe inner lining with soapy damp cloth.",
+      "isFeatured": false,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 4.8,
+      "reviewCount": 27,
+      "tags": [
+        "dopp kit",
+        "toiletry bag",
+        "travel"
+      ],
+      "moq": 50,
+      "wholesalePrice": 2400,
+      "createdAt": "2026-01-22"
+    },
+    {
+      "id": "prod-acc1",
+      "title": "Executive Leather Valet Tray / Catchall",
+      "slug": "executive-leather-valet-tray-catchall",
+      "sku": "HEY-ACC-001",
+      "category": "Leather Accessories",
+      "categorySlug": "leather-accessories",
+      "price": 2400,
+      "inStock": true,
+      "stockQuantity": 50,
+      "stock": 50,
+      "thumbnail": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Corner brass snap valet tray that packs completely flat for travel. Ideal for holding keys, watch, cufflinks, and smartphone.",
+      "shortDescription": "Corner snap valet tray for desk, nightstand, and travel.",
+      "material": "Dual-Layer Bridle Leather",
+      "leatherType": "Full-Grain Bridle",
+      "hardware": "Heavy Brass Corner Snap Buttons",
+      "dimensions": "Flat: 22 cm x 22 cm | Snapped: 17 cm x 17 cm x 4 cm",
+      "weight": "140g",
+      "colors": [
+        {
+          "name": "Espresso",
+          "hex": "#2A1810",
+          "inStock": true
+        },
+        {
+          "name": "Tan",
+          "hex": "#8C522F",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Packs completely flat for suitcases",
+        "Solid brass snaps in all 4 corners",
+        "Soft suede interior floor",
+        "Hand-stamped monogram area"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan"
+      },
+      "careInstructions": "Wipe with dry microfiber cloth.",
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 4.9,
+      "reviewCount": 24,
+      "tags": [
+        "valet tray",
+        "desk accessory",
+        "catchall"
+      ],
+      "moq": 100,
+      "wholesalePrice": 1100,
+      "createdAt": "2026-01-30"
+    },
+    {
+      "id": "prod-acc2",
+      "title": "Handmade Leather Triple Watch Travel Roll",
+      "slug": "handmade-leather-triple-watch-travel-roll",
+      "sku": "HEY-ACC-002",
+      "category": "Leather Accessories",
+      "categorySlug": "leather-accessories",
+      "price": 6500,
+      "discountPrice": 5600,
+      "inStock": true,
+      "stockQuantity": 30,
+      "stock": 30,
+      "thumbnail": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Protective cylindrical case with sliding watch cushions separated by rigid leather dividers. Protects 3 timepieces during transit.",
+      "shortDescription": "Cylindrical 3-slot watch travel case with removable cushions.",
+      "material": "Saffiano Textured Scratch-Resistant Leather",
+      "leatherType": "Saffiano Cowhide",
+      "hardware": "Concealed Triple Snap Fasteners",
+      "dimensions": "22 cm x 10 cm x 7 cm",
+      "weight": "380g",
+      "colors": [
+        {
+          "name": "Midnight Blue",
+          "hex": "#1C2833",
+          "inStock": true
+        },
+        {
+          "name": "Cognac Brown",
+          "hex": "#6E2C00",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "3 individual slide-in watch cushions",
+        "Rigid partition walls prevent watches touching",
+        "Velvet lined interior",
+        "Flat base rests securely on table"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Capacity": "Up to 55mm watch cases"
+      },
+      "careInstructions": "Keep in dry environment.",
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "isMonogrammable": true,
+      "rating": 5,
+      "reviewCount": 16,
+      "tags": [
+        "watch roll",
+        "watch case",
+        "luxury accessory"
+      ],
+      "moq": 30,
+      "wholesalePrice": 3400,
+      "createdAt": "2026-02-14"
+    },
+    {
+      "id": "prod-ch1",
+      "title": "Ultra-Slim Dual-Sided Leather Card Holder",
+      "slug": "ultra-slim-dual-sided-leather-card-holder",
+      "sku": "HEY-CRD-001",
+      "category": "Card Holders",
+      "categorySlug": "card-holders",
+      "price": 1800,
+      "inStock": true,
+      "stockQuantity": 80,
+      "stock": 80,
+      "thumbnail": "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Features 3 card slots on each side plus a central top-load pocket for folded bank notes. Ultra-compact everyday carry companion.",
+      "shortDescription": "6-slot card holder with center folded cash slip.",
+      "material": "Fine-Grain Calfskin Leather",
+      "leatherType": "Calfskin",
+      "hardware": "None",
+      "dimensions": "10 cm x 7.5 cm x 0.3 cm",
+      "weight": "35g",
+      "colors": [
+        {
+          "name": "Onyx Black",
+          "hex": "#1C1D1F",
+          "inStock": true
+        },
+        {
+          "name": "Tan Brown",
+          "hex": "#8C522F",
+          "inStock": true
+        },
+        {
+          "name": "Burgundy",
+          "hex": "#581845",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "6 card slots + 1 cash slot",
+        "Ultra slim 3mm thickness",
+        "Hand-turned perimeter seams",
+        "Gold or silver monogram eligible"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan"
+      },
+      "careInstructions": "Do not overstuff beyond 8 cards to maintain shape.",
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 4.9,
+      "reviewCount": 44,
+      "tags": [
+        "card holder",
+        "card sleeve",
+        "minimalist"
+      ],
+      "moq": 100,
+      "wholesalePrice": 850,
+      "createdAt": "2026-01-08"
+    },
+    {
+      "id": "prod-ch2",
+      "title": "Gusseted Business Card Dispenser Case",
+      "slug": "gusseted-business-card-dispenser-case",
+      "sku": "HEY-CRD-002",
+      "category": "Card Holders",
+      "categorySlug": "card-holders",
+      "price": 2200,
+      "inStock": true,
+      "stockQuantity": 65,
+      "stock": 65,
+      "thumbnail": "https://images.unsplash.com/photo-1544816155-12df9643f363?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1544816155-12df9643f363?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Expanding accordion gusset holds up to 35 standard business cards crisp and uncreased. Magnetic closure keeps it clean.",
+      "shortDescription": "Expanding business card case holding up to 35 cards.",
+      "material": "Smooth Box Calfskin",
+      "leatherType": "Box Calf",
+      "hardware": "Concealed Magnetic Closure",
+      "dimensions": "10.5 cm x 6.5 cm x 1.5 cm",
+      "weight": "55g",
+      "colors": [
+        {
+          "name": "Jet Black",
+          "hex": "#111111",
+          "inStock": true
+        },
+        {
+          "name": "Dark Mahogany",
+          "hex": "#3B1F13",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Accordion gusset holds 35 cards",
+        "Front quick-slide card pocket",
+        "Firm reinforced flap",
+        "Custom corporate logo stamping option"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan"
+      },
+      "careInstructions": "Keep dry.",
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isBestSeller": false,
+      "isMonogrammable": true,
+      "rating": 4.8,
+      "reviewCount": 20,
+      "tags": [
+        "business cards",
+        "card case",
+        "corporate"
+      ],
+      "moq": 100,
+      "wholesalePrice": 1100,
+      "createdAt": "2026-02-03"
+    },
+    {
+      "id": "prod-ph1",
+      "title": "Luxury International Leather Passport Wallet",
+      "slug": "luxury-international-leather-passport-wallet",
+      "sku": "HEY-PSP-001",
+      "category": "Passport Holders",
+      "categorySlug": "passport-holders",
+      "price": 2800,
+      "discountPrice": 2450,
+      "inStock": true,
+      "stockQuantity": 50,
+      "stock": 50,
+      "thumbnail": "https://images.unsplash.com/photo-1563245372-f21724e3856d?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1563245372-f21724e3856d?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Designed for international flyers. Securely holds standard passport, boarding pass fold, 4 credit cards, SIM card slot, and mini travel pen.",
+      "shortDescription": "All-in-one travel passport wallet with boarding pass pocket.",
+      "material": "Vegetable-Tanned Cowhide Leather",
+      "leatherType": "Veg-Tan Calf",
+      "hardware": "None",
+      "dimensions": "14.5 cm x 10 cm x 1 cm",
+      "weight": "80g",
+      "colors": [
+        {
+          "name": "Rich Tobacco Tan",
+          "hex": "#8C522F",
+          "inStock": true
+        },
+        {
+          "name": "Midnight Black",
+          "hex": "#1C1D1F",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Dedicated passport sleeve",
+        "Folded boarding pass slip",
+        "4 credit card pockets",
+        "RFID signal shielding"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Fits": "All international biometric passports"
+      },
+      "careInstructions": "Condition every 6 months.",
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 4.9,
+      "reviewCount": 37,
+      "tags": [
+        "passport holder",
+        "travel wallet",
+        "rfid"
+      ],
+      "moq": 50,
+      "wholesalePrice": 1350,
+      "createdAt": "2026-01-16"
+    },
+    {
+      "id": "prod-kh1",
+      "title": "Handcrafted 6-Hook Folded Leather Key Case",
+      "slug": "handcrafted-6-hook-folded-leather-key-case",
+      "sku": "HEY-KEY-001",
+      "category": "Key Holders",
+      "categorySlug": "key-holders",
+      "price": 1600,
+      "discountPrice": 1350,
+      "inStock": true,
+      "stockQuantity": 70,
+      "stock": 70,
+      "thumbnail": "https://images.unsplash.com/photo-1582533561751-ef6f6ab93a2e?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1582533561751-ef6f6ab93a2e?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Compact folded case with 6 solid steel spring hooks and double snap flap. Prevents key scratches inside your pocket or leather bags.",
+      "shortDescription": "Folded 6-hook key case with dual snap closures.",
+      "material": "Full-Grain Oil-Tanned Leather",
+      "leatherType": "Oil-Tanned Cowhide",
+      "hardware": "6 Steel Key Hooks + Brass Snaps",
+      "dimensions": "10 cm x 6.5 cm x 2 cm",
+      "weight": "65g",
+      "colors": [
+        {
+          "name": "Espresso Brown",
+          "hex": "#2B1B14",
+          "inStock": true
+        },
+        {
+          "name": "Warm Tan",
+          "hex": "#8B4513",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "6 heavy-duty swiveling key hooks",
+        "Dual snap button closure",
+        "Back stash slot for cash or parking ticket",
+        "Eliminates pocket jingle and scratches"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan"
+      },
+      "careInstructions": "Wipe clean.",
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 4.8,
+      "reviewCount": 29,
+      "tags": [
+        "key holder",
+        "key case",
+        "everyday carry"
+      ],
+      "moq": 100,
+      "wholesalePrice": 750,
+      "createdAt": "2026-01-26"
+    },
+    {
+      "id": "prod-gs1",
+      "title": "The Gentleman Executive Leather Gift Set",
+      "slug": "the-gentleman-executive-leather-gift-set",
+      "sku": "HEY-SET-001",
+      "category": "Leather Gift Sets",
+      "categorySlug": "leather-gift-sets",
+      "price": 7800,
+      "discountPrice": 6900,
+      "inStock": true,
+      "stockQuantity": 25,
+      "stock": 25,
+      "thumbnail": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?q=80&w=800&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "A curated 3-piece presentation box containing a matching Classic Bifold Wallet, Formal Stitched Belt (adjustable), and Leather Key Fob in a foil-stamped keepsake wooden box.",
+      "shortDescription": "3-Piece curated gift set: Wallet + Belt + Key Holder in luxury box.",
+      "material": "Matching Full-Grain Calfskin Leather",
+      "leatherType": "Calfskin",
+      "hardware": "Solid Brushed Nickel",
+      "dimensions": "Box: 28 cm x 20 cm x 6 cm",
+      "weight": "750g",
+      "colors": [
+        {
+          "name": "Classic Black Ensemble",
+          "hex": "#1C1D1F",
+          "inStock": true
+        },
+        {
+          "name": "Warm Havana Brown Ensemble",
+          "hex": "#3B1F13",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Matching 3-piece leather set",
+        "Foil-stamped presentation box",
+        "Belt adjustable to waist size",
+        "Complimentary custom initials monogramming"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Packaging": "Hardboard keepsake gift box"
+      },
+      "careInstructions": "Individual care guidelines included inside.",
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 5,
+      "reviewCount": 48,
+      "tags": [
+        "gift set",
+        "luxury gift",
+        "mens gift",
+        "corporate gift"
+      ],
+      "moq": 20,
+      "wholesalePrice": 4200,
+      "createdAt": "2026-02-01"
+    },
+    {
+      "id": "prod-corp1",
+      "title": "A4 Executive Leather Conference Padfolio",
+      "slug": "a4-executive-leather-conference-padfolio",
+      "sku": "HEY-CRP-001",
+      "category": "Corporate Leather Products",
+      "categorySlug": "corporate-leather-products",
+      "price": 4800,
+      "discountPrice": 4200,
+      "inStock": true,
+      "stockQuantity": 40,
+      "stock": 40,
+      "thumbnail": "https://images.unsplash.com/photo-1544816155-12df9643f363?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1544816155-12df9643f363?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Designed for boardroom executives and conference delegates. Houses an A4 writing notepad, business cards, pen loop, and tablet document sleeve.",
+      "shortDescription": "Executive A4 conference padfolio with pen loop & card slots.",
+      "material": "Saddle Grain Cowhide Leather",
+      "leatherType": "Saddle Leather",
+      "hardware": "Brass Zipper / Magnetic Option",
+      "dimensions": "32 cm x 24 cm x 2 cm",
+      "weight": "520g",
+      "colors": [
+        {
+          "name": "Deep Espresso",
+          "hex": "#241812",
+          "inStock": true
+        },
+        {
+          "name": "Tan Cognac",
+          "hex": "#8C522F",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Accommodates standard A4 legal notepad",
+        "Pen loop and 4 business card slots",
+        "Large interior document pocket",
+        "Custom debossed corporate logo available"
+      ],
+      "specifications": {
+        "Origin": "Multan, Pakistan",
+        "Customization": "Embossing / Blind stamping"
+      },
+      "careInstructions": "Wipe with dry cotton cloth.",
+      "isFeatured": true,
+      "isNewArrival": false,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 4.9,
+      "reviewCount": 33,
+      "tags": [
+        "corporate",
+        "padfolio",
+        "conference",
+        "office"
+      ],
+      "moq": 50,
+      "wholesalePrice": 2600,
+      "createdAt": "2026-01-20"
+    },
+    {
+      "id": "prod-cst1",
+      "title": "Bespoke OEM / Private Label Custom Leather Manufacturing",
+      "slug": "bespoke-oem-private-label-custom-leather-manufacturing",
+      "sku": "HEY-OEM-001",
+      "category": "Custom Leather Products",
+      "categorySlug": "custom-leather-products",
+      "price": 8500,
+      "inStock": true,
+      "stockQuantity": 100,
+      "stock": 100,
+      "thumbnail": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?q=80&w=800&auto=format&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?q=80&w=800&auto=format&fit=crop"
+      ],
+      "description": "Comprehensive custom leather goods manufacturing for brands, retailers, and institutions. From pattern development and leather selection to custom branded hardware and export packing.",
+      "shortDescription": "OEM prototype development, sampling, and bulk production.",
+      "material": "Choice of Cowhide, Buffalo, Goat, or Calfskin",
+      "leatherType": "Bespoke Selection",
+      "hardware": "Custom engraved or plated hardware",
+      "dimensions": "Built to client specifications",
+      "weight": "Variable",
+      "colors": [
+        {
+          "name": "Custom Dye to Match",
+          "hex": "#8C522F",
+          "inStock": true
+        },
+        {
+          "name": "Black",
+          "hex": "#1C1D1F",
+          "inStock": true
+        }
+      ],
+      "features": [
+        "Custom blueprint & sample prototyping",
+        "Laser engraving or hot-foil embossing",
+        "Private label branding & barcode packaging",
+        "Dedicated B2B account manager"
+      ],
+      "specifications": {
+        "Origin": "Heymand International, Multan",
+        "Sample Lead Time": "5-7 working days"
+      },
+      "careInstructions": "Specified per leather selection.",
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isBestSeller": true,
+      "isMonogrammable": true,
+      "rating": 5,
+      "reviewCount": 52,
+      "tags": [
+        "custom manufacturing",
+        "oem",
+        "private label",
+        "wholesale"
+      ],
+      "moq": 50,
+      "wholesalePrice": 4500,
+      "createdAt": "2026-01-01"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-wallets",
+      "name": "Leather Wallets",
+      "slug": "leather-wallets",
+      "description": "Precision handcrafted bifolds, trifolds, and slim minimalist wallets crafted from full-grain cowhide leather.",
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=800&auto=format&fit=crop",
+      "itemCount": 8,
+      "startingPrice": 3200,
+      "featured": true
+    },
+    {
+      "id": "cat-belts",
+      "name": "Leather Belts",
+      "slug": "leather-belts",
+      "description": "Formal and casual belts engineered with solid brass hardware and hand-burnished vegetable-tanned edges.",
+      "image": "https://images.unsplash.com/photo-1624222247344-550fb60583dc?q=80&w=800&auto=format&fit=crop",
+      "itemCount": 6,
+      "startingPrice": 2800,
+      "featured": true
+    },
+    {
+      "id": "cat-bags",
+      "name": "Leather Bags",
+      "slug": "leather-bags",
+      "description": "Rugged weekenders, versatile carryalls, and executive briefcases tailored for daily endurance.",
+      "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=800&auto=format&fit=crop",
+      "itemCount": 6,
+      "startingPrice": 14500,
+      "featured": true
+    },
+    {
+      "id": "cat-handbags",
+      "name": "Handbags",
+      "slug": "handbags",
+      "description": "Sophisticated women’s shoulder bags, structured totes, and day satchels in supple milled calfskin.",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=800&auto=format&fit=crop",
+      "itemCount": 6,
+      "startingPrice": 11500,
+      "featured": true
+    },
+    {
+      "id": "cat-laptop-bags",
+      "name": "Laptop Bags",
+      "slug": "laptop-bags",
+      "description": "Reinforced impact-cushioned briefcases with dedicated 14\" to 16\" laptop compartments and organizer sleeves.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=800&auto=format&fit=crop",
+      "itemCount": 5,
+      "startingPrice": 12500,
+      "featured": true
+    },
+    {
+      "id": "cat-messenger-bags",
+      "name": "Messenger Bags",
+      "slug": "messenger-bags",
+      "description": "Classic crossbody messenger satchels with adjustable bridle leather straps and antique brass buckle clasps.",
+      "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?q=80&w=800&auto=format&fit=crop",
+      "itemCount": 5,
+      "startingPrice": 9800,
+      "featured": false
+    },
+    {
+      "id": "cat-travel-bags",
+      "name": "Travel Bags",
+      "slug": "travel-bags",
+      "description": "Heavy-duty leather travel duffels, holdalls, and garment bags built for international travel and business tours.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=800&auto=format&fit=crop",
+      "itemCount": 5,
+      "startingPrice": 18500,
+      "featured": true
+    },
+    {
+      "id": "cat-accessories",
+      "name": "Leather Accessories",
+      "slug": "leather-accessories",
+      "description": "Valet trays, watch rolls, desk blotters, and executive small goods handcrafted in Multan.",
+      "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=800&auto=format&fit=crop",
+      "itemCount": 5,
+      "startingPrice": 1800,
+      "featured": false
+    },
+    {
+      "id": "cat-card-holders",
+      "name": "Card Holders",
+      "slug": "card-holders",
+      "description": "Slim RFID-blocking card cases, folded business card sleeves, and front-pocket organizers.",
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=800&auto=format&fit=crop",
+      "itemCount": 4,
+      "startingPrice": 1600,
+      "featured": false
+    },
+    {
+      "id": "cat-passport-holders",
+      "name": "Passport Holders",
+      "slug": "passport-holders",
+      "description": "Travel passport wallets with boarding pass slots, pen holders, and secure RFID protection.",
+      "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?q=80&w=800&auto=format&fit=crop",
+      "itemCount": 4,
+      "startingPrice": 2400,
+      "featured": false
+    },
+    {
+      "id": "cat-key-holders",
+      "name": "Key Holders",
+      "slug": "key-holders",
+      "description": "Folded key cases with snap closures, leather key fobs, and heavy-duty brass split ring organizers.",
+      "image": "https://images.unsplash.com/photo-1582533561751-ef6f6ab93a2e?q=80&w=800&auto=format&fit=crop",
+      "itemCount": 4,
+      "startingPrice": 1200,
+      "featured": false
+    },
+    {
+      "id": "cat-gift-sets",
+      "name": "Leather Gift Sets",
+      "slug": "leather-gift-sets",
+      "description": "Curated luxury boxed combinations featuring matching wallet, belt, and key holder ensembles.",
+      "image": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?q=80&w=800&auto=format&fit=crop",
+      "itemCount": 4,
+      "startingPrice": 6500,
+      "featured": true
+    },
+    {
+      "id": "cat-corporate",
+      "name": "Corporate Leather Products",
+      "slug": "corporate-leather-products",
+      "description": "Custom embossed folders, executive conference folios, organizers, and corporate client recognition gifts.",
+      "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?q=80&w=800&auto=format&fit=crop",
+      "itemCount": 4,
+      "startingPrice": 4200,
+      "featured": true
+    },
+    {
+      "id": "cat-custom",
+      "name": "Custom Leather Products",
+      "slug": "custom-leather-products",
+      "description": "OEM contract manufacturing, bespoke client patterns, custom hardware engraving, and private label production.",
+      "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?q=80&w=800&auto=format&fit=crop",
+      "itemCount": 4,
+      "startingPrice": 5000,
+      "featured": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1001",
+      "orderNumber": "HEY-2026-1001",
+      "customer": {
+        "fullName": "Muhammad Usman",
+        "email": "usman.m@example.com",
+        "phone": "03225554433",
+        "address": "Near DCS Office, Tareen Rd, Mohalla Qadirabad",
+        "city": "Multan",
+        "postalCode": "60000",
+        "country": "Pakistan"
+      },
+      "items": [
+        {
+          "productId": "prod-w1",
+          "productTitle": "Heritage Classic Bifold Leather Wallet",
+          "productImage": "https://images.unsplash.com/photo-1627123424574-724758594e93?q=80&w=800&auto=format&fit=crop",
+          "sku": "HEY-WLT-001",
+          "selectedColor": "Espresso Brown",
+          "price": 3200,
+          "quantity": 2,
+          "total": 6400
+        },
+        {
+          "productId": "prod-b1",
+          "productTitle": "Artisan Formal Stitched Leather Belt (35mm)",
+          "productImage": "https://images.unsplash.com/photo-1624222247344-550fb60583dc?q=80&w=800&auto=format&fit=crop",
+          "sku": "HEY-BLT-001",
+          "selectedColor": "Classic Black",
+          "price": 2990,
+          "quantity": 1,
+          "total": 2990
+        }
+      ],
+      "shippingMethod": "standard",
+      "shippingFee": 250,
+      "subtotal": 9390,
+      "discountAmount": 939,
+      "couponCode": "HEYMAND10",
+      "grandTotal": 8701,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "status": "Processing",
+      "trackingNumber": "TCS-HEY-881290",
+      "notes": "Please verify order via WhatsApp before dispatch.",
+      "createdAt": "2026-03-12T14:30:00Z",
+      "updatedAt": "2026-03-13T09:15:00Z"
+    },
+    {
+      "id": "ord-1002",
+      "orderNumber": "HEY-2026-1002",
+      "customer": {
+        "fullName": "Ayesha Raza",
+        "email": "ayesha.r@example.com",
+        "phone": "03129876543",
+        "address": "Suit # 402, Commercial Tower, Gulgasht",
+        "city": "Multan",
+        "postalCode": "60000",
+        "country": "Pakistan"
+      },
+      "items": [
+        {
+          "productId": "prod-hb1",
+          "productTitle": "The Multan Grace Structured Leather Tote",
+          "productImage": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=800&auto=format&fit=crop",
+          "sku": "HEY-HBG-001",
+          "selectedColor": "Warm Caramel",
+          "price": 11900,
+          "quantity": 1,
+          "total": 11900
+        }
+      ],
+      "shippingMethod": "express_multan",
+      "shippingFee": 350,
+      "subtotal": 11900,
+      "discountAmount": 0,
+      "grandTotal": 12250,
+      "paymentMethod": "bank_transfer",
+      "paymentStatus": "paid",
+      "status": "Confirmed",
+      "notes": "Payment transferred to Meezan Bank account.",
+      "createdAt": "2026-03-14T10:15:00Z",
+      "updatedAt": "2026-03-14T11:00:00Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "user-admin-1",
+      "name": "Heymand International Administration",
+      "email": "admin@heymandinternational.com",
+      "password": "$2b$10$oGR2KYQd.A6ztwqKyuDkc.Sw5nYX2pQrpym8cHebc6XxwHg/YOdsi",
+      "role": "admin",
+      "phone": "03226685582",
+      "company": "Heymand International",
+      "createdAt": "2026-01-01"
+    },
+    {
+      "id": "user-cust-1",
+      "name": "Shahid Nadeem",
+      "email": "customer@example.com",
+      "password": "$2b$10$vPClneC9ZgWMFdr1G46mdOoD5WP8a7FinwEIM4RWK3TH8lsusvBda",
+      "role": "customer",
+      "phone": "03001234567",
+      "company": "Retail Partner",
+      "addresses": [
+        {
+          "id": "addr-cust-1",
+          "fullName": "Shahid Nadeem",
+          "phone": "03001234567",
+          "address": "Tareen Road Commercial Center, Mohalla Qadirabad",
+          "city": "Multan",
+          "postalCode": "60000",
+          "isDefault": true
+        }
+      ],
+      "createdAt": "2026-02-01"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "productId": "prod-w1",
+      "productTitle": "Heritage Classic Bifold Leather Wallet",
+      "author": "Tariq Mehmood",
+      "city": "Multan",
+      "rating": 5,
+      "comment": "Exceptional craftsmanship from Heymand International. The leather aroma, edge finishing, and stitching quality match top-tier international standards.",
+      "date": "2026-02-15",
+      "verifiedPurchase": true,
+      "isApproved": true
+    },
+    {
+      "id": "rev-2",
+      "productId": "prod-bg1",
+      "productTitle": "Executive Ambassador Leather Briefcase",
+      "author": "Kamran Siddiqui",
+      "city": "Lahore",
+      "rating": 5,
+      "comment": "We placed a bulk corporate order for our senior partners. The custom embossing and solid brass fittings are immaculate. Highly professional manufacturing.",
+      "date": "2026-02-10",
+      "verifiedPurchase": true,
+      "isApproved": true
+    },
+    {
+      "id": "rev-3",
+      "productId": "prod-b1",
+      "productTitle": "Artisan Formal Stitched Leather Belt (35mm)",
+      "author": "Bilal Farooq",
+      "city": "Islamabad",
+      "rating": 5,
+      "comment": "Heavy single-ply leather with zero artificial bonded layers. Solid buckle and great feel. Will definitely order again.",
+      "date": "2026-02-04",
+      "verifiedPurchase": true,
+      "isApproved": true
+    }
+  ],
+  "coupons": [
+    {
+      "id": "coup-1",
+      "code": "HEYMAND10",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "minOrderAmount": 3000,
+      "expiryDate": "2026-12-31",
+      "isActive": true,
+      "description": "10% off on orders above Rs. 3,000"
+    },
+    {
+      "id": "coup-2",
+      "code": "B2BWELCOME",
+      "discountType": "fixed",
+      "discountValue": 1000,
+      "minOrderAmount": 10000,
+      "expiryDate": "2026-12-31",
+      "isActive": true,
+      "description": "Rs. 1,000 off on orders above Rs. 10,000"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg-1",
+      "name": "Rehan Ahmed",
+      "email": "rehan@multanbusiness.pk",
+      "phone": "03226685582",
+      "subject": "Factory Visit & Bulk Leather Belts Inquiry",
+      "message": "Hello Heymand International team. We are based in Multan and would like to visit your location at Tareen Rd near DCS Office to review your leather belt samples and discuss a contract.",
+      "status": "unread",
+      "createdAt": "2026-03-14T08:00:00Z"
+    }
+  ],
+  "quoteRequests": [
+    {
+      "id": "quote-1790058858241",
+      "name": "Test Buyer",
+      "email": "buyer@example.com",
+      "phone": "03226685582",
+      "country": "Pakistan",
+      "productType": "Leather Wallets",
+      "quantity": 50,
+      "message": "Requesting export grade bi-fold samples",
+      "status": "New",
+      "createdAt": "2026-09-22T06:34:18.241Z"
+    },
+    {
+      "id": "quote-1",
+      "name": "Hamza Tariq",
+      "company": "SilkRoute Traders UK",
+      "email": "hamza@silkroutetraders.co.uk",
+      "phone": "+44 7911 123456",
+      "country": "United Kingdom",
+      "productType": "Leather Wallets",
+      "quantity": 500,
+      "materialPreference": "Full-Grain Pull-Up Cowhide",
+      "color": "Espresso & Tan",
+      "brandingRequirements": "Custom debossed logo on inside flap & RFID lining",
+      "requirements": "Export packaging with individual gift boxes and barcode stickers.",
+      "message": "We are sourcing 500 units of premium bifold wallets for our autumn collection. Please provide FOB Karachi or Multan dispatch pricing and sample lead time.",
+      "status": "Reviewing",
+      "quotedPrice": 950000,
+      "internalNotes": "Sample prototype pattern sent to client for digital approval.",
+      "createdAt": "2026-03-10T11:00:00Z"
+    },
+    {
+      "id": "quote-2",
+      "name": "Zubair Al-Mansoor",
+      "company": "Al-Mansoor Corporate Services Dubai",
+      "email": "zubair@almansoor.ae",
+      "phone": "+971 50 1234567",
+      "country": "United Arab Emirates",
+      "productType": "Corporate Leather Products",
+      "quantity": 200,
+      "materialPreference": "Top-Grain Leather",
+      "color": "Navy Blue & Dark Brown",
+      "brandingRequirements": "Gold foil hot-stamping with company emblem",
+      "requirements": "A4 conference padfolios with magnetic closure and pen holder.",
+      "message": "Looking for 200 custom leather folios for annual GCC executive conference in Dubai.",
+      "status": "New",
+      "createdAt": "2026-03-15T09:30:00Z"
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "inq-1790058860657",
+      "name": "Wholesale Buyer",
+      "company": "Alpine Brands",
+      "email": "wholesale@alpine.com",
+      "phone": "03226685582",
+      "country": "Pakistan",
+      "product": "Leather Belts",
+      "quantity": 200,
+      "requirements": "",
+      "message": "Inquiring regarding full grain cowhide belts",
+      "status": "New",
+      "createdAt": "2026-09-22T06:34:20.657Z"
+    },
+    {
+      "id": "inq-1",
+      "name": "David Miller",
+      "company": "Apex Goods Co.",
+      "email": "david@apexleather.com",
+      "phone": "+1 415 555 2671",
+      "country": "United States",
+      "product": "Travel Bags",
+      "quantity": 150,
+      "requirements": "45L weekend leather duffels in oil pull-up leather.",
+      "message": "Hello Heymand International, we are interested in ordering your weekend leather duffel bags under our private label.",
+      "status": "Quoted",
+      "createdAt": "2026-03-08T16:00:00Z"
+    }
+  ],
+  "subscribers": [
+    {
+      "id": "sub-1",
+      "email": "procurement@leathergroup.com",
+      "subscribedAt": "2026-01-10T00:00:00Z"
+    },
+    {
+      "id": "sub-2",
+      "email": "retailer@multangoods.pk",
+      "subscribedAt": "2026-02-15T00:00:00Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1790058858241",
+      "title": "New B2B Quote Request: Leather Wallets",
+      "message": "From Test Buyer (Private) for 50 units.",
+      "type": "quote",
+      "isRead": false,
+      "createdAt": "2026-09-22T06:34:18.241Z"
+    }
+  ]
+}

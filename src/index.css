@@ -1,0 +1,110 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    /* Heymand International Signature Theme Palette (#D4DFC7) */
+    --color-theme-sage: #D4DFC7;
+    --color-theme-sage-hover: #C5D3B5;
+    --color-theme-sage-light: #F3F7EE;
+    --color-theme-sage-tint: #E8EFE0;
+    --color-theme-sage-border: #BDCCA9;
+    --color-theme-forest-950: #141B13;
+    --color-theme-forest-900: #1B241A;
+    --color-theme-forest-800: #273525;
+    --color-theme-olive-700: #384C35;
+    --color-theme-olive-600: #4B6347;
+
+    /* Parchment & Leather Accents */
+    --color-parchment-base: #F9FAF7;
+    --color-parchment-soft: #F1F4ED;
+    --color-parchment-sand: #E5EADF;
+    
+    /* Deep Rich Leathers */
+    --color-espresso-950: #161B14;
+    --color-espresso-900: #1F281E;
+    --color-espresso-800: #2C392A;
+    
+    /* Cognac & Chestnut Leather Tones */
+    --color-cognac-700: #5C3217;
+    --color-cognac-600: #7C4623;
+    --color-cognac-500: #9B5D34;
+    --color-cognac-400: #BA794C;
+
+    /* Theme Accents */
+    --color-accent-sage: #D4DFC7;
+    --color-gold-600: #8E7734;
+    --color-gold-500: #B29849;
+    --color-gold-400: #CFB564;
+    --color-gold-100: #F4F7ED;
+
+    /* Typography */
+    --font-heading: 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
+    --font-body: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+
+  body {
+    font-family: var(--font-body);
+    background-color: var(--color-parchment-base);
+    color: #1A2219;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    letter-spacing: -0.01em;
+  }
+}
+
+.font-serif-luxury {
+  font-family: var(--font-heading);
+}
+
+.font-sans-clean {
+  font-family: var(--font-body);
+}
+
+/* Subtle hand-stitch effect for leather styling */
+.border-saddle-stitch {
+  border-style: dashed;
+  border-width: 1px;
+  border-color: rgba(140, 82, 47, 0.35);
+}
+
+.gold-gradient-text {
+  background: linear-gradient(135deg, #A8823B 0%, #D8BA73 50%, #BFA054 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.leather-texture-overlay {
+  background-image: radial-gradient(rgba(0,0,0,0.03) 1px, transparent 0);
+  background-size: 8px 8px;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F4EFEB;
+}
+::-webkit-scrollbar-thumb {
+  background: #C4B5A5;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8C522F;
+}
+
+@media print {
+  body {
+    background-color: white !important;
+    color: black !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+}

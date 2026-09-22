@@ -1,0 +1,6 @@
+{
+  "name": "Heymand International - Leather Goods Manufacturer",
+  "description": "Heymand International - Premium leather goods manufacturer based on Tareen Rd, near DCS Office, Mohalla Qadirabad, Multan, Pakistan. Handcrafted leather wallets, belts, briefcases, bags, B2B wholesale, custom quotation, and private label manufacturing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
